@@ -26,4 +26,4 @@ const bubbleGenerator = () => {
   }, 8000);
 };
 
-setInterval(bubbleGenerator, 3000);
+setInterval(bubbleGenerator, 300);
